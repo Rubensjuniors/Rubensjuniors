@@ -1,4 +1,4 @@
-## Oiii eu sou o Rubens Junio, Desenvolvedor Front-end (Aprendiz)!
+## Oiii eu sou o Rubens Junio, Desenvolvedor Front-end
 
 - Estou aprendendo Front-end
 - Pronouns: ele/dele
