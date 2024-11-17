@@ -1,9 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=35&pause=1000&color=00F1F7&width=1000&height=100&lines=I'm+Rubens+Junio;I'm+Software+Engenieer)](https://git.io/typing-svg)
 
-Olá, eu sou Rubens Junio, tenho 20 anos e sou apaixonado pelo mundo da tecnologia. Desde pequeno, sempre fui fascinado pelo funcionamento de sites e aplicativos, especialmente pela parte visual como fontes, cores e interatividade sempre me chamaram atenção. Essa paixão me levou a focar minha carreira no front-end, onde posso unir criatividade e funcionalidade para criar experiências digitais envolventes.
+Hello, I'm Rubens Junio, I'm 20 years old and I'm passionate about the world of technology. Since I was little, I've always been fascinated by how websites and applications work, especially the visual aspect, such as fonts, colors and interactivity, have always caught my attention. This passion led me to focus my career on the front end, where I can combine creativity and functionality to create engaging digital experiences.
 
+- 🎓 I'm studying systems development analysis 
+- 🥷 Skills: **Front End Development**, **Desenvolvimento Web**, **SQL Databases** and **Agile Project Management** 
+- 🤔 Currently: Studying for **CI/CD**, **Design Patterns** and **Software Design**
 
 <p align="left">
+    <a href="https://www.instagram.com/rubs.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/rubens-junio-603979250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="(https://x.com/rubs.dev)"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)" target="_blank">
     <a href="https://github.com/rubensjuniors?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -19,6 +25,9 @@ Olá, eu sou Rubens Junio, tenho 20 anos e sou apaixonado pelo mundo da tecnolog
         />
     </a>
 </p>
+
+
+
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -126,3 +135,6 @@ Olá, eu sou Rubens Junio, tenho 20 anos e sou apaixonado pelo mundo da tecnolog
   />
 
 </p>
+
+
+![idimetrix's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake-dark.svg)
