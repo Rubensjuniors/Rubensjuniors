@@ -3,7 +3,7 @@
 Hello, I'm Rubens Junio, I'm 20 years old and I'm passionate about the world of technology. Since I was little, I've always been fascinated by how websites and applications work, especially the visual aspect, such as fonts, colors and interactivity, have always caught my attention. This passion led me to focus my career on the front end, where I can combine creativity and functionality to create engaging digital experiences.
 
 - 🎓 I'm studying systems development analysis 
-- 🥷 Skills: **Front End Development**, **Desenvolvimento Web**, **SQL Databases** and **Agile Project Management** 
+- 🥷 Skills: **Front End Development**, **Desenvolvimento Web**, **SQL Databases** 
 - 🤔 Currently: Studying for **CI/CD**, **Design Patterns** and **Software Design**
 
 <p align="left">
@@ -116,7 +116,7 @@ Hello, I'm Rubens Junio, I'm 20 years old and I'm passionate about the world of 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
