@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Rubens Junio
+# 🧑‍💻 Rubens Junio
 
 **`Software Engenieer`**
 
-
+Olá, eu sou Rubens Junio, tenho 20 anos e sou apaixonado pelo mundo da tecnologia. Desde pequeno, sempre fui fascinado pelo funcionamento de sites e aplicativos, especialmente pela parte visual como fontes, cores e interatividade sempre me chamaram atenção. Essa paixão me levou a focar minha carreira no front-end, onde posso unir criatividade e funcionalidade para criar experiências digitais envolventes.
 
 
 <p align="left">
