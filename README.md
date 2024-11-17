@@ -1,8 +1,4 @@
-# 🧑‍💻 Rubens Junio
-
-**`Software Engenieer`**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=35&pause=1000&color=00F1F7&width=1000&height=100&lines=I'm+Software+engineering;Focus+on+Front-end!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Doto&size=35&pause=1000&color=00F1F7&width=1000&height=100&lines=I'm+Rubens+Junio;I'm+Software+Engenieer;Focus+on+Front-end!)](https://git.io/typing-svg)
 
 Olá, eu sou Rubens Junio, tenho 20 anos e sou apaixonado pelo mundo da tecnologia. Desde pequeno, sempre fui fascinado pelo funcionamento de sites e aplicativos, especialmente pela parte visual como fontes, cores e interatividade sempre me chamaram atenção. Essa paixão me levou a focar minha carreira no front-end, onde posso unir criatividade e funcionalidade para criar experiências digitais envolventes.
 
