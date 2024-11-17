@@ -126,7 +126,7 @@ Hello, I'm Rubens Junio, I'm 20 years old and I'm passionate about the world of 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=rubensjuniors&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
-<br />
+
 <img 
       align="left" 
       alt="GitHub Stats" 
